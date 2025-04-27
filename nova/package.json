@@ -1,6 +1,7 @@
 {
   "name": "nova",
   "private": true,
+  "homepage": "https://muchemiwamuyu.github.io/Nova-care-official/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
